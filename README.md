@@ -1,4 +1,4 @@
-# GENESIS<br/>
+# GENESIS <br/>
 
 
 Genesis is one of the biggest and the most popular event organized by ACES furthermore, it contains crucial information regarding placements, jobs and career options available in the future in addition to that speakers have also shared valuable insights concerning various opportunities available in PVGCOET, GSoC/GSoD, hackathon, internships opportunities available in college.<br/> 
@@ -23,7 +23,7 @@ Genesis is one of the biggest and the most popular event organized by ACES furth
 2 Off-campus placements <br/>
 3 After engineering? <br/>
 4 Freelancing, start-ups <br/>
-**DAT 3**<br/>
+**DAY 3**<br/>
 1 Hackathons and coding competitions <br/>
 2 Introductions to competitive coding <br/>
 3 Approaching GSoC, GSoD, and creative arts <br/>
