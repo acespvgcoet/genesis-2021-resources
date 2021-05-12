@@ -3,11 +3,11 @@
 
 **Genesis is one of the biggest and the most popular event organized by ACES furthermore, it contains crucial information regarding placements, jobs and career options available in the future in addition to that speakers have also shared valuable insights concerning various opportunities available in PVGCOET, GSoC/GSoD, hackathon, internships opportunities available in college.**<br/> 
 
-
+<br/> 
 
 **LIST OF SPEAKERS**<br/> 
 
-| SUBJECT | NAME | LINKEDIN ID |
+| **SUBJECT** | **NAME** | **LINKEDIN ID** |
 | --------------- | --------------- | --------------- |
 | Opportunities in College | Vinod Kamat | https://www.linkedin.com/in/vinodkamat2607/ |
 | Opportunities in College | Yash Mehta|  |
@@ -31,19 +31,20 @@
 
 
 **TIMELINE OF EVENT** <br/>
-
+<br/> 
 **DAY 1**<br/>
 1 Opportunities avaible in PVGCOET <br/>
 2 Academic and preparation tips for exam <br/>
 3 Profile and resume building <br/>
 4 Internships <br/>
 5 Switching to interdisciplinary <br/>
-
+<br/> 
 **DAY 2**<br/>
 1 Campus placements and interview experiences <br/>
 2 Off-campus placements <br/>
 3 After engineering? <br/>
 4 Freelancing, start-ups <br/>
+<br/> 
 **DAY 3**<br/>
 1 Hackathons and coding competitions <br/>
 2 Introductions to competitive coding <br/>
