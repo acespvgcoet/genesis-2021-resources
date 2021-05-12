@@ -1,7 +1,7 @@
 # GENESIS <br/>
 
 
-Genesis is one of the biggest and the most popular event organized by ACES furthermore, it contains crucial information regarding placements, jobs and career options available in the future in addition to that speakers have also shared valuable insights concerning various opportunities available in PVGCOET, GSoC/GSoD, hackathon, internships opportunities available in college.<br/> 
+**Genesis is one of the biggest and the most popular event organized by ACES furthermore, it contains crucial information regarding placements, jobs and career options available in the future in addition to that speakers have also shared valuable insights concerning various opportunities available in PVGCOET, GSoC/GSoD, hackathon, internships opportunities available in college.**<br/> 
 
 
 
@@ -10,7 +10,7 @@ Genesis is one of the biggest and the most popular event organized by ACES furth
 | SUBJECT | NAME | LINKEDIN ID |
 | --------------- | --------------- | --------------- |
 | Opportunities in College | Vinod Kamat | https://www.linkedin.com/in/vinodkamat2607/ |
-| Opportunities in College | Yash Mehta| Row 2 Column 3 |
+| Opportunities in College | Yash Mehta|  |
 | Academics and Preparation Tips | Pranita Panchmukh | https://www.linkedin.com/in/pranita-panchmukh-2444501b6/ |
 | Academics and Preparation Tips | Prasannaraj Patil| https://www.linkedin.com/in/prasannaraj-patil/ |
 | Networking, Linkedin and Resume Buliding | Aashay Zanpure| https://www.linkedin.com/in/aashayzanpure/ |
@@ -20,8 +20,8 @@ Genesis is one of the biggest and the most popular event organized by ACES furth
 | Career Options | Aashay Zanpure | https://www.linkedin.com/in/aashayzanpure/ |
 | Placement and Interview Experience | Gandhali Kokate | https://www.linkedin.com/in/gandhali-kokate-7b8961179/ |
 | Placement and Interview Experience  | Pranav Kulkarni | https://www.linkedin.com/in/pranav-r-kulkarni/ |
-| Off Campus Placement | Abhishek Shah | Row 2 Column 3 |
-| Freelancing and Start-ups | Abhishek Shah | Row 3 Column 3 |
+| Off Campus Placement | Abhishek Shah |  |
+| Freelancing and Start-ups | Abhishek Shah |  |
 | Open Source Programs and Creative Arts | Atharva Dhekne | https://www.linkedin.com/in/atharvadhekne/ |
 | Competitive coding  | Gaurav Khaimar | https://www.linkedin.com/in/gaurav-khairnar-393100171/ |
 | Hackathons | Adwait Bhope | https://www.linkedin.com/in/adwaitbhope/ |
