@@ -9,23 +9,25 @@ Genesis is one of the biggest and the most popular event organized by ACES furth
 
 | SUBJECT | NAME | LINKEDIN ID |
 | --------------- | --------------- | --------------- |
-| Opportunities in College | Vinod Kamat | Row 1 Column 3 |
+| Opportunities in College | Vinod Kamat | https://www.linkedin.com/in/vinodkamat2607/ |
 | Opportunities in College | Yash Mehta| Row 2 Column 3 |
-| Academics and Preparation Tips | Pranita Panchmukh | Row 3 Column 3 |
-| Academics and Preparation Tips | Prasannaraj Patil| Row 1 Column 3 |
-| Networking, Linkedin and Resume Buliding | Aashay Zanpure| Row 2 Column 3 |
-| Internships | Vinod Kamat | Row 3 Column 3 |
-| Switching to Interdisciplinary Fields| Aumkar Inamdar | Row 1 Column 3 |
-| Career Options | Adwait Bhope | Row 2 Column 3 |
-| Career Options | Aashay Zanpure | Row 3 Column 3 |
-| Placement and Interview Experience | Gandhali Kokate | Row 2 Column 3 |
-| Placement and Interview Experience  | Pranav Kulkarni | Row 3 Column 3 |
+| Academics and Preparation Tips | Pranita Panchmukh | https://www.linkedin.com/in/pranita-panchmukh-2444501b6/ |
+| Academics and Preparation Tips | Prasannaraj Patil| https://www.linkedin.com/in/prasannaraj-patil/ |
+| Networking, Linkedin and Resume Buliding | Aashay Zanpure| https://www.linkedin.com/in/aashayzanpure/ |
+| Internships | Vinod Kamat | https://www.linkedin.com/in/vinodkamat2607/ |
+| Switching to Interdisciplinary Fields| Aumkar Inamdar | https://www.linkedin.com/in/aumkar-inamdar-57964b191/ |
+| Career Options | Adwait Bhope | https://www.linkedin.com/in/adwaitbhope/ |
+| Career Options | Aashay Zanpure | https://www.linkedin.com/in/aashayzanpure/ |
+| Placement and Interview Experience | Gandhali Kokate | https://www.linkedin.com/in/gandhali-kokate-7b8961179/ |
+| Placement and Interview Experience  | Pranav Kulkarni | https://www.linkedin.com/in/pranav-r-kulkarni/ |
 | Off Campus Placement | Abhishek Shah | Row 2 Column 3 |
 | Freelancing and Start-ups | Abhishek Shah | Row 3 Column 3 |
-| Open Source Programs and Creative Arts | Atharva Dhekne | Row 2 Column 3 |
-| Competitive coding  | Gaurav Khaimar | Row 3 Column 3 |
-| Hackathons | Adwait Bhope | Row 2 Column 3 |
-| Research Paper | Aniket Datar | Row 3 Column 3 |
+| Open Source Programs and Creative Arts | Atharva Dhekne | https://www.linkedin.com/in/atharvadhekne/ |
+| Competitive coding  | Gaurav Khaimar | https://www.linkedin.com/in/gaurav-khairnar-393100171/ |
+| Hackathons | Adwait Bhope | https://www.linkedin.com/in/adwaitbhope/ |
+| Research Paper | Aniket Datar | https://www.linkedin.com/in/ezpuns/ |
+
+<br/>
 
 
 **TIMELINE OF EVENT** <br/>
