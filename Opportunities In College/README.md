@@ -5,6 +5,9 @@
 <br><br>
 PVG COET is home to many opportunities in form of clubs and committees. There are several opportunities for everyone who is interested in tech, entrepreneurship, management, creative fields, etc. These things shape the personality of a student throughout the 4 years of engineering. Also, we get to meet similar minds when we join the clubs, committees and interact with seniors. Take a peek at all the clubs that you can be part of -**<br/> 
 
+**PVG DISCORD SERVER -   https://discord.gg/s2JvpqSs <BR>
+Note - your username should be in the format Name_Surname_Department**
+
 <br/> 
 
 | **Name of the club** | **Instagram Handle** | **Lead** | **LinkedIn** | **Website** |
