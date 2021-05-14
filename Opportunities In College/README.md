@@ -1,16 +1,15 @@
-# OPPORTUNITIES IN COLLEGE <br/>
+# Opportunities in College
 
+> “It's through curiosity and looking at opportunities in new ways that we've always mapped our path.” - Michael Dell  
 
-**“It's through curiosity and looking at opportunities in new ways that we've always mapped our path.” - Michael Dell
-<br><br>
-PVG COET is home to many opportunities in form of clubs and committees. There are several opportunities for everyone who is interested in tech, entrepreneurship, management, creative fields, etc. These things shape the personality of a student throughout the 4 years of engineering. Also, we get to meet similar minds when we join the clubs, committees and interact with seniors. Take a peek at all the clubs that you can be part of -**<br/> 
+PVG COET is home to many opportunities in form of clubs and committees. There are several opportunities for everyone who is interested in tech, entrepreneurship, management, creative fields, etc. These experiences shape the personality of a student throughout the 4 years of engineering. Also, we get to meet similar minds when we join these clubs, committees and get to interact with seniors.  
 
-**PVG DISCORD SERVER -   https://discord.gg/s2JvpqSs <BR>
-Note - your username should be in the format Name_Surname_Department**
+PVGCOET's (unofficial) Discord Server: https://discord.gg/s2JvpqSs  
+Note: Your username should be in the format Name_Surname_Department_Graduation_Year
 
-<br/> 
+Take a peek at all the clubs that you can be part of:  
 
-| **Name of the club** | **Instagram Handle** | **Lead** | **Website** |
+| Name of the club | Instagram Handle | Lead | Website |
 | --------------- | --------------- | --------------- | --------------- |
 | Association of Computer Engineering Students (ACES) | @acespvg | [Vinod Kamat](https://www.linkedin.com/in/vinodkamat2607/), [Pranita Panchmukh](https://www.linkedin.com/in/pranita-panchmukh-2444501b6/) | https://linktr.ee/acespvgcoet |
 | Robotics Club | @pvg_robotics_club | | 
@@ -25,8 +24,4 @@ Note - your username should be in the format Name_Surname_Department**
 | Electrical Engineering Students Association (EESA) | @eesa_pvg | | |
 | PVG's Art's Circle | @pvgartscircle | | |
 | One Soul Dance Group (OSDG) | @one_soul_dg | | |
-| Japanese Language Classes | @hiramekiclasses | | hirameki.co.in/resources |
-
-
-
-<br/>
+| Japanese Language Classes | @hiramekiclasses | | https://hirameki.co.in/ |
