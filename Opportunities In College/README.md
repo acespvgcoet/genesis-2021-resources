@@ -11,7 +11,7 @@ Take a peek at all the clubs that you can be part of:
 
 | Name of the club | Instagram Handle | Lead | Website |
 | --------------- | --------------- | --------------- | --------------- |
-| Association of Computer Engineering Students (ACES) | @acespvg | [Vinod Kamat](https://www.linkedin.com/in/vinodkamat2607/), [Pranita Panchmukh](https://www.linkedin.com/in/pranita-panchmukh-2444501b6/) | https://linktr.ee/acespvgcoet |
+| Association of Computer Engineering Students (ACES) | @acespvg | [Vinod Kamat](https://www.linkedin.com/in/vinodkamat2607/), [Pranita Panchmukh](https://www.linkedin.com/in/pranita-panchmukh-2444501b6/) | https://acespvgcoet.web.app/ |
 | Robotics Club | @pvg_robotics_club | | 
 | Entrepreneurship Development Cell (EDC) | @edc_pvg | Harshal Jadhav, [Aldrich Saldanha](https://www.linkedin.com/in/aldrich-saldanha-a168a01b7/) | |
 | Developers Student Club (DSC) | @dscpvgcoet | [Sunanda Somwase](https://www.linkedin.com/in/sunandasomwase/) |https://dscpvgcoet.github.io/<br><br>https://dsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology-pune/ |
