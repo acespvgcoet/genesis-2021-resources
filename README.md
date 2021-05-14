@@ -1,6 +1,6 @@
 # Genesis 2021
 
-Genesis is one of the biggest and the most popular events organized by ACES. We guide juniors through crucial things like placements, interviews, jobs and career options, etc. In addition to that, we also discuss opportunities available in PVGCOET, navigating through GSoC/GSoD, hackathons, internships, etc.  
+Genesis is one of the biggest and the most popular events organized by ACES. We guide juniors through crucial know-how like placements, interviews, jobs and career options, etc. In addition to that, we also discuss opportunities available in PVGCOET, navigating through GSoC/GSoD, hackathons, internships, etc.  
 
 We have prepared this repository for you to find all related resources in one place.  
 Check out the corresponding folders above for details.
