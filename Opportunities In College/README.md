@@ -18,8 +18,8 @@ Take a peek at all the clubs that you can be part of:
 | Virtual Labs (VLABS) |  | [Prasannaraj Patil](https://www.linkedin.com/in/prasannaraj-patil/), [Aumkar Inamdar](https://www.linkedin.com/in/aumkar-inamdar-57964b191/), [Amey Satwe](https://www.linkedin.com/in/amey-satwe/) | http://vlabs.iitb.ac.in/vlab/|
 | TEDx | @tedxpvgcoet | [Atharva Dekhne](https://www.linkedin.com/in/atharvadhekne/) | https://tedxpvgcoet.com |
 | Information Technology Students' Association (ITSA) |  @itsapvg | [Sushant Vernekar](https://www.linkedin.com/in/sushant-vernekar-98a00a181/) |  | linktr.ee/itsapvg |
-| Telecommunication Engineering Students Association (TESA) | @tesapvg | | |
-| Mechanical Engineering Students Association (MESA) | @pvg_mesa | | |
+| Telecommunication Engineering Students Association (TESA) | @tesapvg |[Jaydev Bapat](https://www.linkedin.com/in/jaydev-bapat-1535b91b5/) | |
+| Mechanical Engineering Students Association (MESA) | @pvg_mesa | [Jai Pattewar](https://www.linkedin.com/in/jai-pattewar/), [Tanush Jamdade](https://www.linkedin.com/in/tanush-jamdade-33a6801b1/) | |
 | PrintEra (COPE) | @pvg_printera | | |
 | Electrical Engineering Students Association (EESA) | @eesa_pvg | [Gururaj Rajmane](https://www.linkedin.com/in/gururaj-rajmane-519787201/) | |
 | PVG's Art's Circle | @pvgartscircle | | |
