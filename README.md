@@ -23,9 +23,6 @@ Check out the corresponding folders above for details.
 | Hackathons | [Adwait Bhope](https://www.linkedin.com/in/adwaitbhope/) |
 | Research Paper | [Aniket Datar](https://www.linkedin.com/in/ezpuns/) |
 
-<br/>
-
-
 ## Event Timeline
  
 ### Day 1
