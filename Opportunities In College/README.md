@@ -21,7 +21,7 @@ Take a peek at all the clubs that you can be part of:
 | Telecommunication Engineering Students Association (TESA) | @tesapvg | | |
 | Mechanical Engineering Students Association (MESA) | @pvg_mesa | | |
 | PrintEra (COPE) | @pvg_printera | | |
-| Electrical Engineering Students Association (EESA) | @eesa_pvg | | |
+| Electrical Engineering Students Association (EESA) | @eesa_pvg | [Gururaj Rajmane](https://www.linkedin.com/in/gururaj-rajmane-519787201/) | |
 | PVG's Art's Circle | @pvgartscircle | | |
 | One Soul Dance Group (OSDG) | @one_soul_dg | | |
 | Japanese Language Classes | @hiramekiclasses | | https://hirameki.co.in/ |
