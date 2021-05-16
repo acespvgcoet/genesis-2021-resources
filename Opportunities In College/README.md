@@ -17,7 +17,7 @@ Take a peek at all the clubs that you can be part of:
 | Developers Student Club (DSC) | @dscpvgcoet | [Sunanda Somwase](https://www.linkedin.com/in/sunandasomwase/) |https://dscpvgcoet.github.io/<br><br>https://dsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology-pune/ |
 | Virtual Labs (VLABS) |  | [Prasannaraj Patil](https://www.linkedin.com/in/prasannaraj-patil/), [Aumkar Inamdar](https://www.linkedin.com/in/aumkar-inamdar-57964b191/), [Amey Satwe](https://www.linkedin.com/in/amey-satwe/) | http://vlabs.iitb.ac.in/vlab/|
 | TEDx | @tedxpvgcoet | [Atharva Dekhne](https://www.linkedin.com/in/atharvadhekne/) | https://tedxpvgcoet.com |
-| Information Technology Students' Association (ITSA) |  @itsapvg | [Sushant Vernekar](https://www.linkedin.com/in/sushant-vernekar-98a00a181/) |  | linktr.ee/itsapvg |
+| Information Technology Students' Association (ITSA) |  @itsapvg | [Sushant Vernekar](https://www.linkedin.com/in/sushant-vernekar-98a00a181/) | https://itsa-pvg.github.io/website2021/ | linktr.ee/itsapvg |
 | Telecommunication Engineering Students Association (TESA) | @tesapvg |[Jaydev Bapat](https://www.linkedin.com/in/jaydev-bapat-1535b91b5/) | |
 | Mechanical Engineering Students Association (MESA) | @pvg_mesa | [Jai Pattewar](https://www.linkedin.com/in/jai-pattewar/), [Tanush Jamdade](https://www.linkedin.com/in/tanush-jamdade-33a6801b1/) | |
 | PrintEra (COPE) | @pvg_printera | [Akshay Ingle](https://www.linkedin.com/in/akshay-ingle-58132b192/) | |
