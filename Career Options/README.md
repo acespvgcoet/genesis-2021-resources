@@ -1,6 +1,6 @@
 # Career Paths
 
-Read more about types of Computer Science specific job positions in the presentation above.  
+Read more about types of Computer Science specific job positions by clicking on the link below.
 - [Top career options after b-tech](https://www.crampete.com/blogs/top-17-career-options-after-b-tech/)
 
 ## CAT
