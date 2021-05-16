@@ -18,13 +18,14 @@ Read more about colleges at [Top M-Tech colleges in India](https://www.careerind
 
 ## GRE
 
-Though not mandatory for many US universities nowadays, GRE remains a conventional exam students take while applying for MS abroad. It's an objective exam of 340 marks broken down into two sections - Quantitative and Verbal. There's also a third subjective section "Analytical Writing". Read more on their [official website](https://www.ets.org/gre).
+Though not mandatory for many US universities nowadays, GRE remains a conventional exam students take while applying for MS abroad. It's a test of 340 marks broken down into two objective sections - *Quantitative* and *Verbal*. There's also a third subjective section *Analytical Writing*. Read more on their [official website](https://www.ets.org/gre).
 
 Some popular resources for preparing for GRE are
-- [Magoosh](https://magoosh.com/)
+- [Official ETS Prep](https://www.ets.org/gre/revised_general/prepare/)
+- [Magoosh GRE](https://magoosh.com/)
 - [Manhattan 5lb book](https://www.manhattanprep.com/gre/store/gre-strategy-guides/5-pound-book-gre-practice-problems/)
 - [Barron's Essential Words for the GRE](https://www.amazon.in/Barron%60s-Essential-Words-Philip-Geer/dp/9387477010)
 - [ETS Practice Tests](https://www.ets.org/gre/revised_general/prepare/powerprep/)
 - [Kaplan Free Practice Test](https://www.kaptest.com/gre/free/free-gre-practice-test)
 
-Read more about universities for MS at [Top colleges for MS in abroad](https://studyabroad.shiksha.com/top-ms-colleges-in-abroad-abroadranking33).
+Read more about universities for MS at [Top colleges for MS abroad](https://studyabroad.shiksha.com/top-ms-colleges-in-abroad-abroadranking33).
