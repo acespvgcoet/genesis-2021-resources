@@ -12,7 +12,7 @@ Read more about types of Computer Science specific job positions in the presenta
 
 GATE is an MCQ based entrance exam for MTech in India. It's organized by a different IIT every year. GATE 2021 was conducted by IIT Bombay.  
 
-Find more details on their [official website](https://gate.iitb.ac.in/). It contains all details including available subjects, paper patter, [complete syllabus](https://gate.iitb.ac.in/syllabi.php), and previous years question papers. GATE Score can also be used for applying to PSUs like DRDO, ONGC, SAIL, etc.  
+Find more details on their [official website](https://gate.iitb.ac.in/). It contains information about available subjects, paper pattern, [complete syllabus](https://gate.iitb.ac.in/syllabi.php), and previous years' question papers. GATE Score can also be used for applying to PSUs like DRDO, ONGC, SAIL, etc.  
 
 Read more about colleges at [Top M-Tech colleges in India](https://www.careerindia.com/top-m-tech-colleges-in-india/articlecontent-pf5656-011864.html).
 
