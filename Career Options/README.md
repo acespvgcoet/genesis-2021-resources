@@ -8,7 +8,7 @@ Read more about types of Computer Science specific job positions by clicking on 
 The Common Aptitude Test (CAT) is the standard exam in India for pursuing an MBA (for about 95% MBA colleges). It is organized by different IIMs every year. There are also other exams for pursuing MBA in India such as the Xavier Aptitude Test (XAT), Common Management Admission Test (CMAT), MBA-CET (For Colleges of Maharashtra)
 
 - [Top MBA colleges in India](https://www.shiksha.com/mba/ranking/top-mba-colleges-in-india/2-2-0-0-0)
-- [Information about upcoming CAT Exam](https://www.shiksha.com/mba/cat-exam?rf=searchWidget&landing=ep)
+- [Information about the CAT Exam](https://www.shiksha.com/mba/cat-exam?rf=searchWidget&landing=ep)
 
 ## GATE
 
