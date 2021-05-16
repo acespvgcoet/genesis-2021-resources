@@ -23,5 +23,5 @@ Take a peek at all the clubs that you can be part of:
 | PrintEra (COPE) | @pvg_printera | | |
 | Electrical Engineering Students Association (EESA) | @eesa_pvg | [Gururaj Rajmane](https://www.linkedin.com/in/gururaj-rajmane-519787201/) | |
 | PVG's Art's Circle | @pvgartscircle | | |
-| One Soul Dance Group (OSDG) | @one_soul_dg | | |
+| One Soul Dance Group (OSDG) | @one_soul_dg | [Pranjal Tiwari](https://www.linkedin.com/in/pranjaldtiwari/)| |
 | Japanese Language Classes | @hiramekiclasses | | https://hirameki.co.in/ |
