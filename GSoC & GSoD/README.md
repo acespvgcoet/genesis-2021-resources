@@ -1,4 +1,4 @@
-## **GSoc/GSoD**
+# GSoc & GSoD
 <hr>
 The WordPress Documentation Style Guide is one of Google Season of Docs' projects for 2020.
 <br> <br>
@@ -9,12 +9,19 @@ Google Season of Docs 2020 Project Report. Check out the [report](https://make.w
 
 Full Style Guide Introduction - [https://make.wordpress.org/docs/style-guide/](https://make.wordpress.org/docs/style-guide/)
 
+Project By -  
+Atharva Dhekne
 
-<br>
+Github - [https://github.com/WordPress/WordPress-Documentation-Style-Guide](https://github.com/WordPress/WordPress-Documentation-Style-Guide)  
+Website - [https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic)  
 
-Project By-
-<br> Atharva Dhekne
+<hr>
 
-Github- [https://github.com/WordPress/WordPress-Documentation-Style-Guide](https://github.com/WordPress/WordPress-Documentation-Style-Guide)
+Accepted project for Google Summer of Code 2021: Adding Support for Resampling Data with NDCube.  
 
-Website -[https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic)
+Read more about the project [here](https://summerofcode.withgoogle.com/projects/#5357890195423232) and have a look at the proposal [here](https://github.com/sunpy/sunpy/wiki/GSoC-2021-Adwait-Bhope).  
+
+Project By -  
+Adwait Bhope
+
+> Note: Never plagiarize any proposals or reports, only use them for reference and always write your own.
